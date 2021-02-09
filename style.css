@@ -50,6 +50,11 @@ nav {
   z-index: 10;
 }
 
+
+#fix {
+  position: static;
+}
+
 nav a:not(:last-child) {
   margin-right: 25px;
 }
