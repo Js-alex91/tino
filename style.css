@@ -210,11 +210,17 @@ section:nth-of-type(3) {
 
 @media (max-width: 500px){
 
-  
+  p {
+    font-size: 15px;
+    width: 200%;
+    z-index
+}
 .uriel{
   margin-left: 10px;
 }
-
+.text2{
+  width: 100%;
+}
 
 nav a:not(:last-child) {
   margin-right: -6px;
