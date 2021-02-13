@@ -280,7 +280,13 @@ a {
 
 
 @media (max-width: 569px){
-
+.contain-img > img {
+    width: 100%;
+    display: block;
+    justify-content: space-around;
+    margin-left: 23px;
+}
+	
 
 	.ini {
     height: 19px;
