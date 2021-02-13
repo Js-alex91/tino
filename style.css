@@ -281,9 +281,10 @@ a {
 
 @media (max-width: 569px){
 
-.ini{
-  height: 42px;
-  width: 30%
+
+	.ini {
+    height: 19px;
+    width: 30%;
 }
 	
 	.redes ul {
