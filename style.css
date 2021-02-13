@@ -280,7 +280,14 @@ a {
 
 
 @media (max-width: 569px){
-.contain-img > img {
+
+	h1 {
+    font-size: 20px;
+		font-size: 10px;
+		}
+
+	
+	.contain-img > img {
     width: 100%;
     display: block;
     justify-content: space-around;
@@ -296,4 +303,5 @@ a {
 	.redes ul {
     margin-top: 6px;
 
+}
 }
